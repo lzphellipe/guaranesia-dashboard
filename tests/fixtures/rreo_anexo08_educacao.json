@@ -1,0 +1,8 @@
+{
+  "items": [
+    {"conta": "RECEITA RESULTANTE DE IMPOSTOS E TRANSFERÊNCIAS", "coluna": "ATÉ O BIMESTRE", "valor": 43400000.00},
+    {"conta": "TOTAL DAS DESPESAS PARA FINS DE LIMITE - APLICAÇÃO EM MDE", "coluna": "ATÉ O BIMESTRE", "valor": 11760000.00},
+    {"conta": "PERCENTUAL DE APLICAÇÃO EM MDE SOBRE A RECEITA DE IMPOSTOS - LIMITE 25%", "coluna": "% ATÉ O BIMESTRE", "valor": 27.10}
+  ],
+  "hasMore": false
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {"conta": "10 - Saúde", "coluna": "DOTAÇÃO ATUALIZADA (e)", "valor": 20000000.00},
+    {"conta": "10 - Saúde", "coluna": "DESPESAS EMPENHADAS NO BIMESTRE", "valor": 2100000.00},
+    {"conta": "10 - Saúde", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)", "valor": 12480000.00},
+    {"conta": "10 - Saúde", "coluna": "DESPESAS LIQUIDADAS ATÉ O BIMESTRE (h)", "valor": 11000000.00},
+
+    {"conta": "301 - Atenção Básica", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)", "valor": 7000000.00},
+    {"conta": "302 - Assistência Hospitalar e Ambulatorial", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)", "valor": 5480000.00},
+
+    {"conta": "12 - Educação", "coluna": "DOTAÇÃO ATUALIZADA (e)", "valor": 18000000.00},
+    {"conta": "12 - Educação", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)", "valor": 11760000.00},
+    {"conta": "361 - Ensino Fundamental", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)", "valor": 9000000.00},
+
+    {"conta": "06 - Segurança pública", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)", "valor": 610000.00},
+    {"conta": "13 - Cultura", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)", "valor": 520000.00},
+    {"conta": "04 - Administração", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)", "valor": 6180000.00},
+
+    {"conta": "09 - Previdência social", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)", "valor": 1980000.00, "rotulo": "RREO-Anexo 02 - Despesas Intra-Orçamentárias"},
+
+    {"conta": "TOTAL (III) = (I + II)", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)", "valor": 31570000.00}
+  ],
+  "hasMore": false
+}

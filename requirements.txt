@@ -1,0 +1,7 @@
+
+# Versões travadas (compatible release ~=) para reprodutibilidade.
+streamlit~=1.60
+pandas~=2.2          # projeto compatível com 2.2+; testado até 3.0
+plotly~=6.0
+requests~=2.32
+urllib3~=2.0

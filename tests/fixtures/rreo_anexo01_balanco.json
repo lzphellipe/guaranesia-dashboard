@@ -1,0 +1,7 @@
+{
+  "items": [
+    {"conta": "TOTAL RECEITAS", "coluna": "RECEITAS REALIZADAS ATÉ O BIMESTRE (c)", "valor": 46800000.00},
+    {"conta": "TOTAL DESPESAS", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)", "valor": 43200000.00}
+  ],
+  "hasMore": false
+}

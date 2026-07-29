@@ -1,0 +1,8 @@
+{
+  "items": [
+    {"conta": "DESPESAS COM SAÚDE (EXCETO INTRA-ORÇAMENTÁRIAS)", "coluna": "DESPESAS EMPENHADAS ATÉ O BIMESTRE", "valor": 12480000.00},
+    {"conta": "RECEITA DE IMPOSTOS LÍQUIDA E TRANSFERÊNCIAS CONSTITUCIONAIS E LEGAIS", "coluna": "TOTAL ATÉ O BIMESTRE", "valor": 55700000.00},
+    {"conta": "PERCENTUAL APLICADO EM ASPS SOBRE A RECEITA - LIMITE CONSTITUCIONAL 15%", "coluna": "% ATÉ O BIMESTRE", "valor": 22.40}
+  ],
+  "hasMore": false
+}
